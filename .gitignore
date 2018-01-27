@@ -1,0 +1,3 @@
+backend/test/*.pdf
+backend/api.key
+.vscode/settings.json
