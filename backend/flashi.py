@@ -26,6 +26,7 @@ PARAMS = {
 
 
 def pagify_and_ocr(fname):
+    """Print the text contained within a PDF document"""
     num_pages = pagify_pdf(fname)
     for page in range(num_pages):
         image = ''
