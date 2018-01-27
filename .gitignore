@@ -1,3 +1,4 @@
 backend/test/*.pdf
+backend/test/*.png
 backend/api.key
 .vscode/settings.json
